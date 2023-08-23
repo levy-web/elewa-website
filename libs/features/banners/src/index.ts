@@ -1,1 +1,1 @@
-export * from './lib/features-banners.module';
+export * from './lib/banners.module';
