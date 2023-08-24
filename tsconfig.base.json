@@ -28,6 +28,7 @@
       "@elewa-website/elements/layout/texts": [
         "libs/elements/layout/texts/src/index.ts"
       ],
+      "@elewa-website/features/banners": ["libs/features/banners/src/index.ts"],
       "@elewa-website/features/pages/about": [
         "libs/features/pages/about/src/index.ts"
       ],
